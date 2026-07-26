@@ -79,7 +79,6 @@ next-env.d.ts
 # AI Agents
 .agents
 .claude
-CLAUDE.md
 CLAUDE.local.md
 .qodo
 .worktrees
