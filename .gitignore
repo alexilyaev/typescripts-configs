@@ -35,7 +35,7 @@ node_modules
 .yarn/*
 
 # OS generated files
-.DS_STORE
+.DS_Store
 
 # Thumbnails
 ._*
